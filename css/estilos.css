@@ -108,7 +108,7 @@ a {
   grid-template-columns: repeat(8, 1fr);
   grid-template-rows: repeat(6, 1fr);
   background-image: linear-gradient(var(--fondo-img-uno), var(--fondo-img-uno)),
-    url(/img/yoga.jpg);
+    url(../img/yoga.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
