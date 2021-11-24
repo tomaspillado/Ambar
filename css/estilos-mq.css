@@ -206,7 +206,7 @@
   .yoga-aside-btn {
     padding: 5px 10px;
     margin: 0 auto;
-    border: 2px solid;
+    border: 1px solid;
     border-radius: 20px;
     font-size: 14px;
     background-color: transparent;
@@ -590,7 +590,7 @@
     border-top: 2px solid var(--color-secundario);
     background-color: var(--background);
     padding: 10px;
-    margin-bottom: 110px;
+    margin-bottom: 0px;
     margin-right: 5px;
   }
 
@@ -841,7 +841,7 @@
   /*¡¡¡¡¡¡¡¡¡¡SOBRE NOSOTROS!!!!!!!!!!*/
 
   .about-contacto {
-    height: 60vh;
+    height: 40vh;
     padding-top: 100px;
     margin-bottom: 200px;
     border-top: solid 2px var(--color-secundario);
@@ -1014,7 +1014,7 @@
     margin: 0px auto;
     padding-top: 100px;
     flex-direction: column;
-    height: 130vh;
+    height: 110vh;
   }
   .container-ambar {
     display: flex;
@@ -1038,7 +1038,7 @@
   /* SLIDER BRUMAS!! */
   .gallery-section {
     background-color: var(--background);
-    height: 110vh;
+    height: 100vh;
     border-top: 2px solid var(--color-secundario);
     border-bottom: 2px solid var(--color-secundario);
   }
@@ -1175,7 +1175,7 @@
     border-top: 2px solid var(--color-secundario);
     background-color: var(--background);
     padding: 5px;
-    margin-bottom: 110px;
+    margin-bottom: 0px;
     margin-right: 5px;
   }
 
