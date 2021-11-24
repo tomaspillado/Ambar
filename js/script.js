@@ -1,6 +1,6 @@
-import scrollButton from "/js/scrollbtn.js";
-import menuHamburger from "/js/hamburger.js";
-import slider from "/js/slider.js";
+import scrollButton from "../js/scrollbtn.js";
+import menuHamburger from "../js/hamburger.js";
+import slider from "../js/slider.js";
 
 addEventListener("DOMContentLoaded",()=>{
     console.log("hola");

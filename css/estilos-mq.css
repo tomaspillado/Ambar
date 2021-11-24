@@ -7,7 +7,7 @@
         var(--fondo-img-uno),
         var(--fondo-img-uno)
       ),
-      url(/img/yoga11.jpg);
+      url(../img/yoga11.jpg);
     background-size: cover;
     background-position: center;
     max-width: 100%;
@@ -679,7 +679,7 @@
         var(--fondo-img-uno),
         var(--fondo-img-uno)
       ),
-      url(/img/yoga11.jpg);
+      url(../img/yoga11.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -954,7 +954,7 @@
         var(--fondo-img-uno),
         var(--fondo-img-uno)
       ),
-      url(/img/yoga11.jpg);
+      url(../img/yoga11.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
